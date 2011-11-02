@@ -1,5 +1,5 @@
 class Goodness
   def self.innate?
-  	false
+  	true
   end
 end
