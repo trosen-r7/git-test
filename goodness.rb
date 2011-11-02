@@ -1,0 +1,3 @@
+class Goodness
+
+end

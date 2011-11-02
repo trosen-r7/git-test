@@ -8,7 +8,7 @@ class Badness
   end
 
   def to_s
-    "At #{Time.now}, we shall #{herp} in order to #{derp}"
+    "At #{Time.now.strftime('%I:%M %p')}, we shall #{herp} in order to #{derp}, because that is awesome"
   end
 
 end
