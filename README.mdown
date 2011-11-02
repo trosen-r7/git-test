@@ -1,0 +1,4 @@
+# Get your Git On
+
+There's nothing cool about this code.  We'll just be using it to make
+stuff obvious.
