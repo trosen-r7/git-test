@@ -6,4 +6,8 @@ class Badness
     @foo, @bar = foo, bar
   end
 
+  def to_s
+    "The Foo is #{foo}, and the Bar is #{bar}"
+  end
+
 end
