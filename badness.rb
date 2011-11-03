@@ -1,0 +1,9 @@
+class Badness
+  attr_accessor :foo, :bar
+
+  
+  def initialize(foo, bar)
+    @foo, @bar = foo, bar
+  end
+
+end
