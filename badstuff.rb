@@ -6,4 +6,8 @@ class Badstuff
   def newbar
     puts "newbar!"
   end
+
+  def even_more_new
+    p "hgdsfds"
+  end
 end
