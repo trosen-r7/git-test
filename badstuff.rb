@@ -12,6 +12,6 @@ class Badstuff
   end
 
   def and_even_more
-    p "gdsafafd"
+    p "gdsafafd:"
   end
 end
