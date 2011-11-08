@@ -14,4 +14,8 @@ class Badstuff
   def and_even_more
     p "gdsafafd:"
   end
+
+  def just_ferry_it
+    p "no reason not to"
+  end
 end
